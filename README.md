@@ -1,2 +1,3 @@
-# eth-preico-contracts
-Ethereum-based smart contracts for AI Banks PreICO
+AIBanks Ethereum-based PreICO smart contracts
+===================
+More information at [ai-banks.com](http://ai-banks.com/)
